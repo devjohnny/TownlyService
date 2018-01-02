@@ -101,3 +101,5 @@ C:\GIT\TownlyService\TownlyService\TownlyService\bin\Microsoft.AspNet.TelemetryC
 C:\GIT\TownlyService\TownlyService\TownlyService\bin\System.Diagnostics.DiagnosticSource.dll
 C:\GIT\TownlyService\TownlyService\TownlyService\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 C:\GIT\TownlyService\TownlyService\TownlyService\bin\System.Diagnostics.DiagnosticSource.xml
+C:\GIT\TownlyService\TownlyService\TownlyService\obj\Debug\TownlyService.Migrations.Initial.resources
+C:\GIT\TownlyService\TownlyService\TownlyService\obj\Debug\TownlyService.csproj.GenerateResource.Cache
