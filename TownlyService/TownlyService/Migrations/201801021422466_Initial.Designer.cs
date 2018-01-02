@@ -13,7 +13,7 @@ namespace TownlyService.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "201801021259011_Initial"; }
+            get { return "201801021422466_Initial"; }
         }
         
         string IMigrationMetadata.Source
