@@ -209,3 +209,6 @@ C:\Users\Johnny\source\GIT\Repos\TownlyService\TownlyService\TownlyService\obj\D
 C:\Users\Johnny\source\GIT\Repos\TownlyService\TownlyService\TownlyService\obj\Debug\TownlyService.csproj.CoreCompileInputs.cache
 C:\Users\Johnny\source\GIT\Repos\TownlyService\TownlyService\TownlyService\obj\Debug\TownlyService.dll
 C:\Users\Johnny\source\GIT\Repos\TownlyService\TownlyService\TownlyService\obj\Debug\TownlyService.pdb
+C:\GIT\TownlyService\TownlyService\TownlyService\bin\System.Web.Cors.dll
+C:\GIT\TownlyService\TownlyService\TownlyService\bin\System.Web.Http.Cors.dll
+C:\GIT\TownlyService\TownlyService\TownlyService\bin\System.Web.Http.Cors.xml

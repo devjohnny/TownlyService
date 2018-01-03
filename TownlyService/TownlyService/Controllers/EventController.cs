@@ -8,6 +8,7 @@ using TownlyService.DataContracts;
 
 namespace TownlyService.Controllers
 {
+//	[EnableCors(origins: "http://www.andrasjani.hu", headers: "*", methods: "*")]
     public class EventController : ApiController
     {
         #region defaultElements
